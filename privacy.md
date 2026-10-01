@@ -1,0 +1,2 @@
+Content Line – Privacy Policy
+Content Line is a personal tool run by AI Solutions by Apex on its own computer to manage its own YouTube channels. It reads channel and video information from YouTube (read-only). This data stays on that computer, is not shared with anyone, and is not used for anything else. Access can be removed at any time at myaccount.google.com/permissions. Contact: aisolutionsbyapex@gmail.com
